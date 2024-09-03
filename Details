@@ -1,0 +1,105 @@
+http://192.168.1.2:4444
+http://localhost:4444
+
+Automation Framework
+--------------------------------------------
+Automation framework means the files and folders in project is organized in 
+structured manner.
+
+For example, we create different packages like utilities, page object module, 
+base, listeners
+
+In utilities we keep common code, in page object module we store the web elements, 
+in base we write a code for stepUp, tearDown, etc.
+
+So in short we can re-use, maintain and read the code properly.
+
+Types of framework
+---------------------------------------------
+1. Built In
+     a. TestNG
+     b. J-unit
+     c. Cucumber
+     b. Robot
+2. User defined
+     a. Data driven
+     b. Keyword driven
+     c. Hybrid
+     etc.
+     
+     
+     
+Phases/stages
+-----------------------------------------------
+1. Analysing AUT
+     a. Do  R&D on functionality
+     b. Count number of pages on site
+     c. What are the element / how / type
+     d. What to automate
+     c. What not to automate
+     
+2. Choosing test case for automation
+   Pre-Condition -----> a. Manual testing should be completed and test case should ready
+                        b. Build should be stable
+   1. Sanity test cases = P1
+   2. Data Driven test Cases / Re-test = P2
+   3. Regression test cases = P3
+   4. Other test cases = P4
+   
+   Is It possible to 100% test coverage or automation?                    
+   Example : - 
+   100 TestCases
+  
+3. Design & Development of framework
+
+========= Design or framework or structured started =========
+
+  Steps to design the framework
+  1. Create Maven Project
+  2. Add Dependency in pom.xml
+     a. testng = https://mvnrepository.com/artifact/org.testng/testng
+     b. selenium-java = https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+     c. poi = https://mvnrepository.com/artifact/org.apache.poi/poi
+     d. poi-ooxml = https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+     e. poi-ooxml-schemas = https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas
+     f. extentreports = https://mvnrepository.com/artifact/com.aventstack/extentreports
+     g. log4j-core = https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
+     h. log4j-api = https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api
+     i. log4j-slf4j-impl = https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-slf4j-impl
+  3. In src/main/java folder create packages
+     a. com.CompanyName.base 
+        => In this package we create the class with BaseClass and in this we write code for
+           a. loadproperties()
+           b. setUp()
+           c. tearDown()
+     b. com.CompanyName.listeners
+        => In this package we create a code to take screen shot when test get failed by using ITestListeners
+     c. com.CompnayName.pom
+        => In this package we create different class for all pages and it that we store the web-elements by using PageFactory
+     d. com.CompanyName.utilities
+        => In this package we create common code so we can re-use it.
+  4. In src/test/java folder create package with name com.CompanyName.testcases
+  5. In src/test/resources we store the testdata.
+  5. Create other folders like 
+     a. logs 
+        => To store the logs
+     b. reports
+        => To store the reports 
+     c. failed screenshots
+        => To store the failed screen shots
+     d. runners
+        => To store the .xml file to perform Cross Browsing Testing and parallel testing
+        
+  ========= Design or framework or structured ended =========      
+        
+4. Execution
+   We do execution in two ways 
+   a. Locally - Within own system
+   b. Remotely - In other system (It can achive by using selenium Grid)
+   
+5. Maintenance 
+
+
+Choose the proper test cases for automation from Manual excel sheet.P1, P2, P3, P4 
+
+

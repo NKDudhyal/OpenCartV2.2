@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-01T22:34:42 IST" name="Local Master" finished-at="2024-09-01T22:35:46 IST" duration-ms="64022">
+    <groups>
+      <group name="Master">
+        <method signature="TestingPage.testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@424fd310]" name="testingg1" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg2()[pri:2, instance:com.opencart.testcase.TestingPage@424fd310]" name="testingg2" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg3()[pri:3, instance:com.opencart.testcase.TestingPage@424fd310]" name="testingg3" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@3e7634b9]" name="testingg1" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg2()[pri:2, instance:com.opencart.testcase.TestingPage@3e7634b9]" name="testingg2" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg3()[pri:3, instance:com.opencart.testcase.TestingPage@3e7634b9]" name="testingg3" class="com.opencart.testcase.TestingPage"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TestingPage.testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@424fd310]" name="testingg1" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg3()[pri:3, instance:com.opencart.testcase.TestingPage@424fd310]" name="testingg3" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@3e7634b9]" name="testingg1" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg3()[pri:3, instance:com.opencart.testcase.TestingPage@3e7634b9]" name="testingg3" class="com.opencart.testcase.TestingPage"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TestingPage.testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@424fd310]" name="testingg1" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg2()[pri:2, instance:com.opencart.testcase.TestingPage@424fd310]" name="testingg2" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@3e7634b9]" name="testingg1" class="com.opencart.testcase.TestingPage"/>
+        <method signature="TestingPage.testingg2()[pri:2, instance:com.opencart.testcase.TestingPage@3e7634b9]" name="testingg2" class="com.opencart.testcase.TestingPage"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2024-09-01T22:34:42 IST" name="Chrome Test" finished-at="2024-09-01T22:35:12 IST" duration-ms="30535">
+      <class name="com.opencart.testcase.TestingPage">
+        <test-method is-config="true" signature="sinle_Testcase(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:34:42 IST" name="sinle_Testcase" finished-at="2024-09-01T22:34:48 IST" duration-ms="6208" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sinle_Testcase -->
+        <test-method signature="testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:34:48 IST" name="testingg1" finished-at="2024-09-01T22:34:51 IST" duration-ms="2567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingg1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:34:51 IST" name="teardown" finished-at="2024-09-01T22:34:54 IST" duration-ms="3274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="sinle_Testcase(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:34:54 IST" name="sinle_Testcase" finished-at="2024-09-01T22:34:58 IST" duration-ms="3868" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sinle_Testcase -->
+        <test-method signature="testingg2()[pri:2, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:34:58 IST" name="testingg2" finished-at="2024-09-01T22:35:00 IST" duration-ms="2102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingg2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:35:00 IST" name="teardown" finished-at="2024-09-01T22:35:03 IST" duration-ms="3236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="sinle_Testcase(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:35:03 IST" name="sinle_Testcase" finished-at="2024-09-01T22:35:07 IST" duration-ms="3535" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sinle_Testcase -->
+        <test-method signature="testingg3()[pri:3, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:35:07 IST" name="testingg3" finished-at="2024-09-01T22:35:09 IST" duration-ms="2084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingg3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.opencart.testcase.TestingPage@424fd310]" started-at="2024-09-01T22:35:09 IST" name="teardown" finished-at="2024-09-01T22:35:12 IST" duration-ms="3233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.opencart.testcase.TestingPage -->
+    </test> <!-- Chrome Test -->
+    <test started-at="2024-09-01T22:35:13 IST" name="Edge Test" finished-at="2024-09-01T22:35:46 IST" duration-ms="32981">
+      <class name="com.opencart.testcase.TestingPage">
+        <test-method is-config="true" signature="sinle_Testcase(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:13 IST" name="sinle_Testcase" finished-at="2024-09-01T22:35:17 IST" duration-ms="4418" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sinle_Testcase -->
+        <test-method signature="testingg1()[pri:1, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:17 IST" name="testingg1" finished-at="2024-09-01T22:35:19 IST" duration-ms="2463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingg1 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:19 IST" name="teardown" finished-at="2024-09-01T22:35:24 IST" duration-ms="4484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="sinle_Testcase(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:24 IST" name="sinle_Testcase" finished-at="2024-09-01T22:35:26 IST" duration-ms="2523" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sinle_Testcase -->
+        <test-method signature="testingg2()[pri:2, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:26 IST" name="testingg2" finished-at="2024-09-01T22:35:30 IST" duration-ms="3782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingg2 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:30 IST" name="teardown" finished-at="2024-09-01T22:35:35 IST" duration-ms="4306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="sinle_Testcase(java.lang.String,java.lang.String)[pri:0, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:35 IST" name="sinle_Testcase" finished-at="2024-09-01T22:35:39 IST" duration-ms="4136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sinle_Testcase -->
+        <test-method signature="testingg3()[pri:3, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:39 IST" name="testingg3" finished-at="2024-09-01T22:35:41 IST" duration-ms="2540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testingg3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.opencart.testcase.TestingPage@3e7634b9]" started-at="2024-09-01T22:35:41 IST" name="teardown" finished-at="2024-09-01T22:35:46 IST" duration-ms="4309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.opencart.testcase.TestingPage -->
+    </test> <!-- Edge Test -->
+  </suite> <!-- Local Master -->
+</testng-results>

@@ -1,0 +1,518 @@
+10:24:17:893 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:902 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+10:24:17:904 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:905 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:909 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:910 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:910 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:911 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:912 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:913 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:913 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:915 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:925 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+10:24:17:935 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+10:24:17:937 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:938 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:943 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:944 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:946 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:949 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:949 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:949 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:24:17:950 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:24:17:962 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse--1096043896\testng-customsuite.xml
+
+10:24:18:020 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+10:24:24:334 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+10:24:24:919 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+10:24:25:068 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+10:24:25:201 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+10:24:25:362 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+10:24:25:504 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+10:24:25:621 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+10:24:25:746 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+10:24:25:836 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+10:24:26:390 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+10:24:26:441 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+10:24:31:082 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@61e3cf4d: 390 ms
+10:24:31:083 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3cec79d3: 1 ms
+10:24:31:097 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@2ca5f1ed: 13 ms
+10:24:31:104 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29629fbb: 7 ms
+10:24:31:114 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1e008f36: 9 ms
+10:24:31:114 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@50acf55d: 0 ms
+10:27:45:524 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:531 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+10:27:45:533 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:534 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:535 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:536 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:536 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:538 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:539 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:539 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:539 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:541 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:543 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:545 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:557 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+10:27:45:574 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 16 ms.
+10:27:45:578 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:579 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+10:27:45:585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+10:27:45:591 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:592 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+10:27:45:594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+10:27:45:606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-204146876\testng-customsuite.xml
+
+10:27:45:640 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+10:27:49:929 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+10:27:50:464 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+10:27:50:611 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+10:27:50:745 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+10:27:50:888 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+10:27:51:012 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+10:27:51:123 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+10:27:51:222 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+10:27:51:301 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+10:27:51:915 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+10:27:51:963 [main] ERROR com.opencart.testcase.TestingPage - Test failed ==> Assertion Error => java.lang.AssertionError: expected [Congratulations Your new account has been successfully created!] but found [Congratulations! Your new account has been successfully created!]
+10:27:55:672 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@26f7cdf8: 337 ms
+10:27:55:695 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@31133b6e: 23 ms
+10:27:55:715 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@64a4dd8d: 19 ms
+10:27:55:730 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7de843ef: 13 ms
+10:27:55:743 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@474fae39: 13 ms
+10:27:55:743 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4f4c789f: 0 ms
+20:11:06:573 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:11:06:590 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+20:11:06:593 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:595 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+20:11:06:596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:596 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:600 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:601 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:603 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:627 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 18 ms.
+20:11:06:637 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+20:11:06:640 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:641 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:645 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:645 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:646 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:647 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:647 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:649 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:650 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:651 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:11:06:651 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:11:06:663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-1699611885\testng-customsuite.xml
+
+20:11:06:703 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+20:11:11:841 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:11:12:283 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:11:12:429 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:11:12:543 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:11:12:671 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+20:11:12:780 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:11:12:880 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+20:11:12:984 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:11:13:064 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:11:13:651 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:11:13:716 [main] ERROR com.opencart.testcase.TestingPage - Test failed ==> Assertion Error => java.lang.AssertionError: expected [Congratulations Your new account has been successfully created!] but found [Congratulations! Your new account has been successfully created!]
+20:11:13:716 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message doesn't matched
+20:11:17:593 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@23202c31: 339 ms
+20:11:17:617 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7ea08277: 24 ms
+20:11:17:633 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@65a5d4f9: 16 ms
+20:11:17:643 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3fd2322d: 10 ms
+20:11:17:651 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@13f9ad9: 8 ms
+20:11:17:651 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1b7cae6f: 0 ms
+20:12:19:856 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+20:12:19:870 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+20:12:19:875 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:875 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:876 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:876 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:878 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:878 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:880 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:881 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:884 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:884 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:886 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:886 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:888 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:889 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:908 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 13 ms.
+20:12:19:929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 20 ms.
+20:12:19:931 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:934 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+20:12:19:941 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:942 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:945 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:946 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:950 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+20:12:19:951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+20:12:19:978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\DELL\AppData\Local\Temp\testng-eclipse-429680003\testng-customsuite.xml
+
+20:12:20:027 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 12 ms.
+20:12:25:176 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:12:25:859 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:12:26:004 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:12:26:136 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:12:26:281 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+20:12:26:401 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:12:26:513 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+20:12:26:681 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:12:26:778 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:12:27:439 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:12:27:472 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:12:31:103 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3cec79d3: 238 ms
+20:12:31:104 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@64b70919: 1 ms
+20:12:31:120 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6c03fb16: 16 ms
+20:12:31:130 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@681adc8f: 9 ms
+20:12:31:139 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@50acf55d: 8 ms
+20:12:31:139 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3cae7b8b: 0 ms
+20:17:34:964 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+20:17:39:731 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:17:40:316 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:17:40:480 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:17:40:610 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:17:40:769 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+20:17:40:893 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:17:40:997 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+20:17:41:112 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:17:41:194 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:17:41:963 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:17:41:997 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:27:16:012 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\cbt.xml
+
+20:27:20:318 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:27:20:814 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:27:20:941 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:27:21:062 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:27:21:195 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+20:27:21:297 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:27:21:398 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+20:27:21:518 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:27:21:592 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:27:22:167 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:27:22:223 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:27:40:457 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\cbt.xml
+
+20:27:44:747 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:27:45:266 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:27:45:400 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:27:45:531 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:27:45:666 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+20:27:45:772 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:27:45:861 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+20:27:45:949 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:27:46:012 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:27:46:559 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:27:46:615 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:28:06:529 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:28:07:157 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:28:07:303 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:28:07:421 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:28:07:582 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+20:28:07:713 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:28:07:833 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+20:28:07:941 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:28:08:012 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:28:08:620 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:28:08:656 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:28:40:784 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:28:41:320 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:28:41:469 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:28:41:525 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:28:41:586 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+20:28:41:624 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:28:41:687 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+20:28:41:739 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:28:41:977 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:28:42:510 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:28:42:541 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:47:50:176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\cbt.xml
+
+20:48:01:341 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:48:02:773 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:48:03:136 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:48:04:300 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:48:04:483 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered email
+20:48:04:608 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:48:04:792 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered password
+20:48:04:952 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:48:05:069 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:48:06:453 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:48:07:091 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:48:07:252 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+20:48:07:607 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:48:07:631 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:48:07:987 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:48:08:206 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:48:08:339 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+20:48:08:543 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered email
+20:48:08:722 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered firstname
+20:48:08:724 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:48:08:786 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered lastname
+20:48:08:875 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered email
+20:48:09:000 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered password
+20:48:09:017 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered phone number
+20:48:09:085 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered password
+20:48:09:172 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:48:09:219 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+20:48:09:335 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:48:09:439 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+20:48:10:241 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:48:10:310 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+20:48:10:349 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+20:48:10:423 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+21:07:34:061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+21:07:38:667 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+21:07:39:220 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+21:07:39:343 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+21:07:39:471 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+21:07:39:605 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+21:07:39:721 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+21:07:39:813 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+21:07:39:906 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+21:07:39:972 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+21:07:40:509 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+21:07:40:557 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+21:07:56:566 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\cbt.xml
+
+21:08:07:854 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+21:08:09:025 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+21:08:09:819 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+21:08:10:001 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+21:08:10:015 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+21:08:10:317 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered firstname
+21:08:10:395 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered firstname
+21:08:10:511 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered lastname
+21:08:10:602 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered lastname
+21:08:10:703 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered email
+21:08:10:888 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered email
+21:08:11:032 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered phone number
+21:08:11:052 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+21:08:11:176 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered phone number
+21:08:11:313 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered password
+21:08:11:329 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered firstname
+21:08:11:455 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered lastname
+21:08:11:462 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+21:08:11:548 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered email
+21:08:11:603 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered phone number
+21:08:11:699 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered password
+21:08:11:763 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+21:08:11:769 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered password
+21:08:11:861 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+21:08:11:886 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+21:08:11:986 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+21:08:12:014 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+21:08:13:078 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+21:08:13:079 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+21:08:13:144 [TestNG-tests-1] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+21:08:13:147 [TestNG-tests-2] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+21:08:13:162 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+21:08:13:215 [TestNG-tests-3] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+21:15:27:855 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\cbt.xml
+
+21:19:25:716 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+21:21:34:875 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+21:23:14:389 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+21:26:21:036 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+21:26:51:209 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+21:26:57:020 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+21:26:57:637 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+21:26:57:837 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+21:26:58:034 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+21:26:58:248 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+21:26:58:401 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+21:26:58:632 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+21:26:58:802 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+21:26:58:905 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+21:26:59:655 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+21:26:59:711 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+21:31:49:020 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+22:06:49:657 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+22:07:36:474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+22:07:40:857 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:07:41:382 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:07:41:516 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:07:41:639 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:07:41:778 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:07:41:891 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:07:41:980 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:07:42:084 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:07:42:275 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:07:42:883 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:07:42:928 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:15:12:205 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+22:15:16:800 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:15:17:382 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:15:17:528 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:15:17:640 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:15:17:790 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:15:17:927 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:15:18:033 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:15:18:131 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:15:18:194 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:15:18:777 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:15:18:837 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:16:09:275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+22:16:14:841 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:16:15:444 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:16:15:587 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:16:15:702 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:16:15:837 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:16:15:951 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:16:16:040 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:16:16:135 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:16:16:200 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:16:16:832 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:16:16:878 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:22:39:774 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+22:22:44:978 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:22:45:534 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:22:45:692 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:22:45:835 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:22:45:989 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:22:46:105 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:22:46:205 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:22:46:309 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:22:46:386 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:22:47:126 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:22:47:190 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:49:23:739 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\sanity.xml
+
+22:49:28:519 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:49:29:065 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:49:29:195 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:49:29:330 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:49:29:491 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:49:29:616 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:49:29:709 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:49:29:800 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:49:29:869 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:49:30:462 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:49:30:514 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:49:37:231 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:49:37:786 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:49:37:925 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:49:38:033 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:49:38:171 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:49:38:279 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:49:38:375 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:49:38:464 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:49:38:534 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:49:39:079 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:49:39:120 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:49:45:802 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on myaccount link
+22:49:46:250 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on register link
+22:49:46:374 [main] INFO  com.opencart.testcase.TestingPage2 - Entered firstname
+22:49:46:501 [main] INFO  com.opencart.testcase.TestingPage2 - Entered lastname
+22:49:46:659 [main] INFO  com.opencart.testcase.TestingPage2 - Entered email
+22:49:46:761 [main] INFO  com.opencart.testcase.TestingPage2 - Entered phone number
+22:49:46:852 [main] INFO  com.opencart.testcase.TestingPage2 - Entered password
+22:49:46:948 [main] INFO  com.opencart.testcase.TestingPage2 - Entered confirm password
+22:49:47:014 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on check box
+22:49:47:649 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on Continue button
+22:49:47:700 [main] INFO  com.opencart.testcase.TestingPage2 - Actaul and expected success message got matched
+22:50:39:091 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\regression.xml
+
+22:50:43:501 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:50:44:058 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:50:44:197 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:50:44:317 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:50:44:455 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:50:44:570 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:50:44:661 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:50:44:758 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:50:44:822 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:50:45:463 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:50:45:531 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:50:52:228 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:50:52:752 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:50:52:905 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:50:53:028 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:50:53:169 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:50:53:278 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:50:53:379 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:50:53:470 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:50:53:538 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:50:54:094 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:50:54:157 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:51:01:233 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on myaccount link
+22:51:01:776 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on register link
+22:51:01:900 [main] INFO  com.opencart.testcase.TestingPage2 - Entered firstname
+22:51:02:054 [main] INFO  com.opencart.testcase.TestingPage2 - Entered lastname
+22:51:02:187 [main] INFO  com.opencart.testcase.TestingPage2 - Entered email
+22:51:02:289 [main] INFO  com.opencart.testcase.TestingPage2 - Entered phone number
+22:51:02:383 [main] INFO  com.opencart.testcase.TestingPage2 - Entered password
+22:51:02:471 [main] INFO  com.opencart.testcase.TestingPage2 - Entered confirm password
+22:51:02:539 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on check box
+22:51:03:251 [main] INFO  com.opencart.testcase.TestingPage2 - Clicked on Continue button
+22:51:03:302 [main] INFO  com.opencart.testcase.TestingPage2 - Actaul and expected success message got matched

@@ -1,0 +1,153 @@
+22:25:05:513 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:25:05:606 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:25:05:685 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:25:05:768 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:25:06:402 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:25:06:449 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:25:06:450 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:25:13:185 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg2 ********** 
+22:25:13:283 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:25:13:901 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:25:14:002 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:25:14:096 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:25:14:208 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:25:14:291 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:25:14:369 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:25:14:461 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:25:14:552 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:25:15:308 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:25:15:352 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:25:15:358 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:25:22:134 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg3 ********** 
+22:25:22:241 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:25:22:688 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:25:22:786 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:25:22:881 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:25:22:980 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:25:23:060 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:25:23:166 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:25:23:262 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:25:23:321 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:25:23:862 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:25:23:911 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:25:23:912 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:25:31:534 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg1 ********** 
+22:25:31:686 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:25:32:314 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:25:32:426 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:25:32:515 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:25:32:608 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:25:32:697 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:25:32:781 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:25:32:864 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:25:32:929 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:25:33:614 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:25:33:658 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:25:33:659 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:25:42:076 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg2 ********** 
+22:25:42:243 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:25:42:843 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:25:42:946 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:25:43:040 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:25:43:132 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:25:43:242 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:25:43:330 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:25:43:430 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:25:43:511 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:25:44:075 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:25:44:111 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:25:44:112 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:25:52:607 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg3 ********** 
+22:25:52:739 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:25:53:655 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:25:53:788 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:25:53:878 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:25:53:977 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:25:54:059 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:25:54:157 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:25:54:257 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:25:54:327 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:25:54:902 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:25:54:939 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:25:54:940 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:34:41:955 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\N@veeN\Software Testing\Selenium\Selenium_Projects\OpenCartV2.2\runners\master.xml
+
+22:34:48:662 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg1 ********** 
+22:34:48:854 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:34:49:654 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:34:49:793 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:34:49:945 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:34:50:098 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:34:50:215 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:34:50:354 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:34:50:447 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:34:50:517 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:34:51:145 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:34:51:194 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:34:51:195 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:34:58:347 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg2 ********** 
+22:34:58:465 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:34:59:094 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:34:59:206 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:34:59:302 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:34:59:398 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:34:59:493 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:34:59:574 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:34:59:682 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:34:59:765 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:35:00:398 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:35:00:446 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:35:00:447 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:35:07:228 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg3 ********** 
+22:35:07:395 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:35:07:952 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:35:08:061 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:35:08:160 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:35:08:253 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:35:08:348 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:35:08:416 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:35:08:492 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:35:08:559 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:35:09:273 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:35:09:307 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:35:09:308 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:35:17:479 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg1 ********** 
+22:35:17:948 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:35:18:624 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:35:18:741 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:35:18:833 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:35:18:936 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:35:19:028 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:35:19:116 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:35:19:201 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:35:19:268 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:35:19:898 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:35:19:939 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:35:19:939 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:35:26:958 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg2 ********** 
+22:35:28:729 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:35:29:374 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:35:29:481 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:35:29:582 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:35:29:692 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:35:29:790 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:35:29:877 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:35:29:964 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:35:30:028 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:35:30:688 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:35:30:731 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:35:30:731 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
+22:35:39:180 [main] INFO  com.opencart.testcase.TestingPage -  ********** Started testingg3 ********** 
+22:35:39:530 [main] INFO  com.opencart.testcase.TestingPage - Clicked on myaccount link
+22:35:40:166 [main] INFO  com.opencart.testcase.TestingPage - Clicked on register link
+22:35:40:276 [main] INFO  com.opencart.testcase.TestingPage - Entered firstname
+22:35:40:390 [main] INFO  com.opencart.testcase.TestingPage - Entered lastname
+22:35:40:491 [main] INFO  com.opencart.testcase.TestingPage - Entered email
+22:35:40:612 [main] INFO  com.opencart.testcase.TestingPage - Entered phone number
+22:35:40:699 [main] INFO  com.opencart.testcase.TestingPage - Entered password
+22:35:40:790 [main] INFO  com.opencart.testcase.TestingPage - Entered confirm password
+22:35:40:850 [main] INFO  com.opencart.testcase.TestingPage - Clicked on check box
+22:35:41:676 [main] INFO  com.opencart.testcase.TestingPage - Clicked on Continue button
+22:35:41:715 [main] INFO  com.opencart.testcase.TestingPage - Actaul and expected success message got matched
+22:35:41:716 [main] INFO  com.opencart.testcase.TestingPage -  ********** Finished testingg1 ********** 
